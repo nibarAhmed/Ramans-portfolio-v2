@@ -38,7 +38,7 @@ const SkillItem = ({ src, width, height, index, skillName }: SkillItemProps) => 
         width={width}
         height={height}
         className="z-50"
-        alt="skill image"
+        alt={skillName}
       />
     </motion.div>
   );
