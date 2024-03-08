@@ -1,10 +1,9 @@
-'use client';
-import React from 'react'
-import { CertificationCard } from '../ui/CertificationCard'
-import SectionHeader from '../ui/SectionHeader'
+"use client";
+import React from "react";
+import { CertificationCard } from "../ui/CertificationCard";
+import SectionHeader from "../ui/SectionHeader";
 import { AcademicCapIcon } from "@heroicons/react/24/solid";
 import { CertificationData } from "@/data/Certification";
-
 
 export const Certification = () => {
   return (
@@ -23,8 +22,7 @@ export const Certification = () => {
             backgroundImg={certification.backgroundImg}
           />
         ))}
-        
-        </div>
+      </div>
     </section>
-  )
-}
+  );
+};
