@@ -7,7 +7,6 @@ import { CertificationData } from "@/data/Certification";
 
 export const Certification = () => {
   return (
-<<<<<<< HEAD
     <section>
         <SectionHeader title='Certifications'  subtitle='Completed or ongoing certifications' Icon={<AcademicCapIcon/>}/>
         <div className="flex flex-wrap justify-center gap-12 max-w-7xl mx-auto">
