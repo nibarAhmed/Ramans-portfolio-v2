@@ -46,7 +46,12 @@ export const Backend_skill = [
     width: 70,
     height: 70,
   },
-
+{
+  skillName: "C++",
+  Image: "/logo/c-plus-plus.png",
+  width: 64,
+  height: 64,
+}
 ];
 
 export const Devops = [
