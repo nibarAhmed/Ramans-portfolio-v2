@@ -23,7 +23,12 @@ export const Frontend_skill = [
     width: 80,
     height: 80,
   },
-  
+  {
+    skillName: "wxPython",
+    Image: "/logo/wxwidgets.png", 
+    width: 70, 
+    height: 70
+  }
 ];
 
 export const Backend_skill = [
@@ -105,6 +110,12 @@ export const Other_skill = [
 {
   skillName:"Android Studio", 
   Image:"/logo/android-studio.png", 
+  width: 70,
+  height: 70
+}, 
+{
+  skillName: "Git", 
+  Image: "/logo/git.png", 
   width: 70,
   height: 70
 }
