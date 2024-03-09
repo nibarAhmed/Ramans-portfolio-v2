@@ -51,6 +51,24 @@ export const Backend_skill = [
   Image: "/logo/c-plus-plus.png",
   width: 64,
   height: 64,
+},
+{
+  skillName: "C",
+  Image: "/logo/c.png", 
+  width: 70, 
+  height: 70
+}, 
+{
+  skillName: "C#",
+  Image: "/logo/c-sharp.png",
+  width: 70, 
+  height: 70
+}, 
+{
+  skillName: "PHP", 
+  Image: "/logo/php.png",
+  width: 70, 
+  height: 70
 }
 ];
 
@@ -73,10 +91,21 @@ export const Devops = [
 
 export const Other_skill = [
   {
-    skillName: "VS Code",
+    skillName: "Visual Studio Code",
     Image: "/logo/vscode.png",
     width: 60,
     height: 60,
   },
-
+{
+  skillName: "Visual Studio",
+  Image: "/logo/visual-studio.png",
+  width: 70, 
+  height: 70
+},
+{
+  skillName:"Android Studio", 
+  Image:"/logo/android-studio.png", 
+  width: 70,
+  height: 70
+}
 ];
