@@ -10,7 +10,7 @@ export const projectsData = [
     youtubeUrl: "https://www.youtube.com/watch?v=m-omLSKbUtc",
     startDate: "2023-09-05",
     endDate: "2023-09-29",
-    technologyStack: [
+    technologyStack:[
       "sonar lint",
       "Github",
       "Linux",
@@ -34,5 +34,16 @@ export const projectsData = [
   startDate: "2023-01-15",
   endDate: "2023-02-03", 
   technologyStack: ["Python", "wxPython", "GitHub", "Event-driven"]
-  }
+  }, 
+  {
+    src: "/project-img/wan.webp",
+    title: "Wan mobile android application", 
+    description: "An Android application was created for Wan Mobil, enabling visitors to browse products and receive notifications about upcoming offers.", 
+    sourceUrl: "https://play.google.com/store/apps/details?id=com.wanmobile.wanmobile", 
+    githubUrl: null, 
+    youtubeUrl: null, 
+    startDate: "2022-04-01",
+    endDate: "2023-06-20", 
+    technologyStack: ["Java", "OneSignal", "GitHub", "Event-driven", "XML", "Google Play Store", "Web View", "ConstraintLayout"]
+    }
 ];
