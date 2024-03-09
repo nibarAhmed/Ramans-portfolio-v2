@@ -47,7 +47,7 @@ const Navbar = () => {
         </div>
         <div className="hidden md:flex gap-6 ml-6 z-50 ">
           <a
-            href="https://github.com/RaymondSWE"
+            href="https://github.com/nibarAhmed"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white text-3xl transition duration-300 hover:text-gray-400"
@@ -55,7 +55,7 @@ const Navbar = () => {
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/in/raman-mohammed"
+            href="https://www.linkedin.com/in/nibar-ahmed-4672b3258/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white text-3xl transition duration-300 hover:text-gray-400"

@@ -30,7 +30,7 @@ const Hero = () => {
             >
               <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
               <h1 className="ml-2 text-lg font-semibold Welcome-text">
-                Nibar Ahmed - Software Developer
+                Nibar Ahmed - Junior Software Developer
               </h1>
             </motion.div>
           </div>
@@ -50,8 +50,8 @@ const Hero = () => {
           >
             With over three years of development experience and a
             Bachelor&apos;s in Computer Science specializing in System
-            Development and accessibility, I specialize in Java, C++, MySQL, android development and more. Passionate about developing software that makes an impact and accessibility, continuously learning to tackle new
-            challenges in software development and accessibility.
+            Development. I specialize in Java, C++, MySQL, android development and more. Passionate about developing software that makes an impact and accessibility, continuously expanding my knowledge to tackle new
+            challenges in software development .
           </motion.p>
           <motion.a
             variants={slideInFromRight(0.8)}
@@ -70,8 +70,8 @@ const Hero = () => {
           <div className="relative w-[400px] h-[400px] rounded-full overflow-hidden bg-[#ffffff08] backdrop-blur-[12px] border-2 border-[#645AFF] flex justify-center items-center shadow-lg shadow-[#645AFF]/70">
             <div className="absolute inset-0 bg-gradient-to-r from-[#645AFF55] via-[#9b6bff55] to-[#d98eff55] mix-blend-normal opacity-60"></div>
             <Image
-              src="/ramanbild.png"
-              alt="Raman Mohammed Image"
+              src="/nibar.jpeg"
+              alt="Nibar Ahmed Image"
               layout="fill"
               objectFit="cover"
               className="rounded-full ml-5 opacity-80"
