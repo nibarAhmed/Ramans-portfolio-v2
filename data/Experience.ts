@@ -23,7 +23,7 @@ export const ExperienceData = [
     date: "August 2020 - June 2021",
     title: "High school engineering degree , NTI Gymnasiet",
     location: "Skövde, Sweden",
-    description:
+    description: 
       "TE4 at NTI is a one-year program focused on project development, offering participants a deep dive into software development methodologies. The curriculum emphasizes practical skills, complemented by internship opportunities with established companies to provide real-world experience.",
   },
   {
@@ -32,7 +32,7 @@ export const ExperienceData = [
     date: "August 2017 - June 2020",
     title: "Highschool degree, the technology program, NTI Gymnasiet",
     location: "Skövde, Sweden",
-    description: null
+    description: "A 3 year program that focuses on learning about diferent aspects of technology including software development."
   }
 ];
  
