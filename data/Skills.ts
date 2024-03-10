@@ -6,12 +6,6 @@ export const Frontend_skill = [
     height: 80,
   },
   {
-    skillName: "CSS",
-    Image: "/logo/css.png",
-    width: 80,
-    height: 80,
-  },
-  {
     skillName: "JavaScript",
     Image: "/logo/js.png",
     width: 65,
@@ -28,12 +22,26 @@ export const Frontend_skill = [
     Image: "/logo/wxwidgets.png", 
     width: 70, 
     height: 70
-  }
+  }, 
+  {
+    skillName: "CSS",
+    Image: "/logo/css.png",
+    width: 80,
+    height: 80,
+  },
+
 ];
+
 
 export const Backend_skill = [
   
-  {
+    {
+      skillName: "C++",
+      Image: "/logo/c-plus-plus.png",
+      width: 64,
+      height: 64,
+    },
+    {
     skillName: "Java",
     Image: "/logo/java.png",
     width: 90,
@@ -51,13 +59,7 @@ export const Backend_skill = [
     width: 70,
     height: 70,
   },
-{
-  skillName: "C++",
-  Image: "/logo/c-plus-plus.png",
-  width: 64,
-  height: 64,
-},
-{
+  {
   skillName: "C",
   Image: "/logo/c.png", 
   width: 70, 
@@ -77,24 +79,29 @@ export const Backend_skill = [
 }
 ];
 
-export const Devops = [
-  {
-    skillName: "Docker",
-    Image: "/logo/docker.webp",
-    width: 70,
-    height: 70,
-  },
 
+export const Devops = [
   {
     skillName: "Ubuntu",
     Image: "/logo/ubuntu.png",
     width: 60,
     height: 60,
   },
-
+  {
+    skillName: "Docker",
+    Image: "/logo/docker.webp",
+    width: 70,
+    height: 70,
+  },
 ];
 
 export const Other_skill = [
+  {
+    skillName: "Git", 
+    Image: "/logo/git.png", 
+    width: 70,
+    height: 70
+  }, 
   {
     skillName: "Visual Studio Code",
     Image: "/logo/vscode.png",
@@ -112,11 +119,6 @@ export const Other_skill = [
   Image:"/logo/android-studio.png", 
   width: 70,
   height: 70
-}, 
-{
-  skillName: "Git", 
-  Image: "/logo/git.png", 
-  width: 70,
-  height: 70
-}
+} 
+
 ];
