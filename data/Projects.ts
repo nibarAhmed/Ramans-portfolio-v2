@@ -1,6 +1,29 @@
 export const projectsData = [
   {
     src: "/project-img/queue-student.png",
+    title: "Massage system",
+    description:
+      "An Appointment Management System for Bally's, streamlining massage appointment scheduling for employees. The system offers a user-friendly interface for seamless booking, trading of appointments and management.",
+    sourceUrl: "https://massage.silverspin.com/",
+    githubUrl:null,
+    youtubeUrl: null,
+    startDate: "2024-06-03",
+    endDate: "2024-07-05",
+    technologyStack:[
+      "type scripp",
+      "React.js", 
+      "Spring Boot", 
+      "Java", 
+      "Liquibase", 
+      "Git", 
+      "SQL", 
+      "Gitlab", 
+      "JUnit", 
+      "Mockito"
+    ],
+  },
+  {
+    src: "/project-img/queue-student.png",
     title: "Distributed Queue System For Students",
     description:
       "A collaborative project was undertaken to develop an event-driven queue system tailored for students and supervisors, utilizing ZeroMQ, Spring Boot, and Python.",

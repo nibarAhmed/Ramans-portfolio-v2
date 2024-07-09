@@ -1,7 +1,17 @@
 export const ExperienceData = [
+
+  {
+    id: "job-2",
+    type: "Contract",
+    date: "June 2024 - July 2024 ",
+    title: "Junior Software Developer at Bally's Interactive",
+    location: "Skövde, Sweden",
+    description:
+      "Developed and implemented new features for both backend and frontend components of a system. Resolved bugs and refactored code to enhance performance and maintainability.",
+  },
   {
     id: "job-1",
-    type: "internship",
+    type: "Internship",
     date: "March 2021 - April 2021",
     title: "Junior Developer at Farsight Tech Nordic AB ",
     location: "Skövde, Sweden",
