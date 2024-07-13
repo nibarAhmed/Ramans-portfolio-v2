@@ -18,6 +18,12 @@ export const Frontend_skill = [
     height: 80,
   },
   {
+    skillName: "React",
+    Image: "/logo/react.png",
+    width: 80,
+    height: 80,
+  },
+  {
     skillName: "wxPython",
     Image: "/logo/wxwidgets.png", 
     width: 70, 
@@ -60,6 +66,13 @@ export const Backend_skill = [
     height: 70,
   },
   {
+    skillName: "Spring Boot", 
+    Image: "/logo/spring.png",
+    width: 70, 
+    height: 70
+  },
+  
+  {
   skillName: "C",
   Image: "/logo/c.png", 
   width: 70, 
@@ -76,7 +89,14 @@ export const Backend_skill = [
   Image: "/logo/php.png",
   width: 70, 
   height: 70
+}, 
+{
+  skillName: "Liquibase", 
+  Image: "/logo/liquibase.png",
+  width: 70, 
+  height: 70
 }
+
 ];
 
 

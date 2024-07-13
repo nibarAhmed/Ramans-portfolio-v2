@@ -1,6 +1,6 @@
 export const projectsData = [
   {
-    src: "/project-img/queue-student.png",
+    src: "/project-img/massage.png",
     title: "Massage system",
     description:
       "An Appointment Management System for Bally's, streamlining massage appointment scheduling for employees. The system offers a user-friendly interface for seamless booking, trading of appointments and management.",
