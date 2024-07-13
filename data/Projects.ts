@@ -10,7 +10,7 @@ export const projectsData = [
     startDate: "2024-06-03",
     endDate: "2024-07-05",
     technologyStack:[
-      "type scripp",
+      "type script",
       "React.js", 
       "Spring Boot", 
       "Java", 
