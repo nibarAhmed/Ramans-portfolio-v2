@@ -1,5 +1,13 @@
 export const ExperienceData = [
-
+  {
+    id: "job-3",
+    type: "Freelance",
+    date: "Dec 2024 - Present",
+    title: "Software Developer at Outlier AI",
+    location: "Remote",
+    description:
+      "Freelance role involving the training of large language models by reviewing code responses. Focused on enhancing model accuracy and ensuring high-quality output across different large language models.",
+  },
   {
     id: "job-2",
     type: "Contract",
