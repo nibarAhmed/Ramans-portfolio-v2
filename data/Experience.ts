@@ -3,16 +3,16 @@ export const ExperienceData = [
     id: "job-3",
     type: "Freelance",
     date: "Dec 2024 - Present",
-    title: "Software Developer at Outlier AI",
+    title: "Freelance Software Developer ",
     location: "Remote",
     description:
-      "Freelance role involving the training of large language models by reviewing code responses. Focused on enhancing model accuracy and ensuring high-quality output across different large language models.",
+      "Freelance developer who focuses on training large language models by reviewing code responses. Focused on enhancing model accuracy and ensuring high-quality output across different large language models.",
   },
   {
     id: "job-2",
     type: "Contract",
     date: "June 2024 - July 2024 ",
-    title: "Junior Software Developer at Bally's Interactive",
+    title: "Software Developer at Bally's Interactive",
     location: "Skövde, Sweden",
     description:
       "Developed and implemented new features for both backend and frontend components of a system. Resolved bugs and refactored code to enhance performance and maintainability.",

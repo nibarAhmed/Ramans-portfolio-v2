@@ -30,7 +30,7 @@ const Hero = () => {
             >
               <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
               <h1 className="ml-2 text-lg font-semibold Welcome-text">
-                Nibar Ahmed - Junior Software Developer
+                Nibar Ahmed - Software Developer
               </h1>
             </motion.div>
           </div>

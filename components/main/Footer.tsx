@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="flex flex-col lg:flex-row justify-between items-center space-y-8 lg:space-y-0">
           <div className="text-white text-center lg:text-left">
             <h2 className="text-xl font-semibold mb-2">Nibar Ahmed</h2>
-            <p className="text-gray-400">Junior software developer. </p>
+            <p className="text-gray-400">software developer. </p>
           </div>
           <div className="flex justify-center space-x-6">
             <a href="https://www.linkedin.com/in/nibar-ahmed-4672b3258/" target="_blank" rel="noopener noreferrer" className="text-white text-3xl hover:scale-110 transition-transform">
